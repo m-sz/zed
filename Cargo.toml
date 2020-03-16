@@ -1,0 +1,6 @@
+[workspace]
+members = [
+	"zed-client",
+	"zed-server",
+	"zed-shared"
+]
