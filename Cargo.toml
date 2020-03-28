@@ -1,6 +1,7 @@
 [workspace]
 members = [
+    "app",
 	"zed-client",
 	"zed-server",
-	"zed-shared"
+	"zed-shared",
 ]
